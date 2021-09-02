@@ -1,0 +1,74 @@
+h1{
+  position:relative;
+  top:40px;
+  font-size:40px;
+  text-align: center;
+  
+}
+h3{
+  font-weight: normal;
+  text-align: center;
+}
+#diva{
+  background-color:#e3e3e3;
+
+}
+#diva2{
+  background-color: #e3e3e3;
+  margin:0 auto;
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#pd1{
+  font-weight: normal;
+  text-align:center;
+  font-size:17px;
+}
+h2{
+  position:relative;
+  font-weight: bold;
+  text-align:center;
+    top:40px;
+}
+li{
+  margin-bottom:15px;
+  font-family: "Lucida Console", monospace;
+  line-height: 1.6;
+}
+#diva3{
+  max-width: 600px;
+  margin:0 auto;
+}
+#diva4{
+      margin-top:50px;
+      font-family: Georgia, serif;
+      font-size:15px;
+      margin-left:22px;
+      font-style: italic;
+      color:rgb(88, 88, 88);
+      letter-spacing: 1px;
+}
+#pd4{
+  font-family: Georgia, serif;
+  text-decoration: dashed;
+  font-size:15px;
+  font-style: italic;
+  color:rgb(88, 88, 88);
+  letter-spacing: 1px;
+}
+#diva5{
+      max-width:900px;
+      margin:50 auto;
+      height: 50px;
+}
+#dp5{
+  font-family: "Times New Roman", serif;
+  font-size:20px;
+  margin-left:15px;
+  
+
+}
